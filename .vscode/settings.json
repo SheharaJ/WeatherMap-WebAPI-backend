@@ -2,5 +2,7 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d81905d7-36f3-474a-a680-c7e1c493eeee/resourceGroups/SJWeatherApi_group/providers/Microsoft.Web/sites/SJWeatherApi",
+    "appService.deploySubpath": "."
 }
